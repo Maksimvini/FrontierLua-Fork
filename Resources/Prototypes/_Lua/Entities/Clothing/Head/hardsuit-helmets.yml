@@ -479,13 +479,17 @@
   - type: PressureProtection
     highPressureMultiplier: 0.08
     lowPressureMultiplier: 1000
+  - type: FireProtection
+    reduction: 0.2
   - type: Armor
     modifiers:
       coefficients:
-        Blunt: 0.95
+        Blunt: 0.90
         Slash: 0.90
+        Piercing: 0.95
         Heat: 0.90
-        Cold: 0.95
+        Cold: 0.90
+        Radiation: 0.25
   - type: HideLayerClothing
     slots:
     - Hair

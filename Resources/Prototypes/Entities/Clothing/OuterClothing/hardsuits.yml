@@ -508,9 +508,11 @@
   - type: Armor
     modifiers:
       coefficients:
-        Blunt: 0.9
-        Slash: 0.9
-        Piercing: 0.9
+        Blunt: 0.75 #Lua 0.9<0.75
+        Slash: 0.85 #Lua 0.9<0.85
+        Piercing: 0.85 #Lua 0.9<0.85
+        Radiation: 0.85 #Lua
+        Shock: 0.8 #Lua
         Caustic: 0.1
         Poison: 0.1
   - type: ZombificationResistance
