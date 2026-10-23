@@ -138,7 +138,6 @@
         Radiation: 0.85 #Lua 0.7<0.85
         Shock: 0.8 #Lua
         Caustic: 0.8 #Lua 0.5<0.8
-        Caustic: 0.45 #Lua
         Poison: 0.25 #Lua
   - type: ZombificationResistance #Lua
     zombificationResistanceCoefficient: 0.6
