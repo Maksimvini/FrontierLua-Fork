@@ -4,10 +4,10 @@
   description: job-description-plant-manager
   playTimeTracker: JobPlantManager
   requiredCompany: Nanotrasen
-  salary: 40000
+  salary: 80000 #Lua 40000 - 80000
   requirements:
     - !type:OverallPlaytimeRequirement
-      time: 720000 # Frontier - 200 hrs Lua
+      time: 936000 # Frontier - 260 hrs Lua
   startingGear: PlantManagerGear
   alwaysUseSpawner: true
   icon: "JobIconPlantManager"

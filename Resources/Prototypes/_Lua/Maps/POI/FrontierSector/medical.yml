@@ -49,9 +49,9 @@
         - type: StationJobs
           availableJobs:
             DirectorOfCare: [ 1, 1 ]
-            Paramedic: [ 5, 5 ] #Lua 2<5
-            MedicalDoctor: [ 3, 3 ] #Lua
-            Chemist: [ 1, 1 ] #Lua
+            Paramedic: [ 7, 7 ] #Lua 2<5  5<7
+            MedicalDoctor: [ 2, 2 ] #Lua 3<2
+            Chemist: [ 2, 2 ] #Lua
           tags:
           - HeadOfPersonnel
           - HeadOfSecurity

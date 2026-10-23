@@ -50,4 +50,4 @@
         - type: StationJobs
           availableJobs:
             PlantManager: [ 1, 1 ]
-            PlantTechnician: [ 0, 0 ]
+            PlantTechnician: [ 3, 3 ]  #Lua 0<3

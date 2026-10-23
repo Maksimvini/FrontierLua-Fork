@@ -86,3 +86,5 @@
     contents:
     - id: WeaponParticleDecelerator
       amount: 2
+    - id: ClothingModsuitChiefEngineer
+      amount: 1
