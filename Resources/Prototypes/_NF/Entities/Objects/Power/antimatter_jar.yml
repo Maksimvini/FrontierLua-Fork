@@ -10,7 +10,7 @@
   - type: Sprite
     sprite: _NF/Objects/Power/big_ame_jar.rsi
   - type: AmeFuelContainer
-    fuelAmount: 1500
-    fuelCapacity: 1500 # ~ 900 MJ
+    fuelAmount: 2500 #Lua 1500<2500
+    fuelCapacity: 2500 # ~ 1500 MJ  1500Capacity<2500Capacity
   - type: StaticPrice
     price: 800 # 1k at 1.25
